@@ -1,16 +1,23 @@
-## Hi there 👋
+## About Me
+I am a Bachelor of Computer Applications (BCA) student with a strong interest in software development and backend engineering. I focus on building practical projects to strengthen my understanding of programming concepts and modern development tools.
 
-<!--
-**akashs278/akashs278** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My current learning path is centered around Python and backend API development using FastAPI, along with improving my knowledge of system tools and development workflows.
 
-Here are some ideas to get you started:
+## Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Programming Languages**
+- Python
+- C++
+- Java
+
+**Tools & Technologies**
+- Git
+- GitHub
+- Visual Studio Code
+
+**Operating Systems**
+- Linux
+
+## Current Learning Focus
+- Python programming and advanced concepts  
+- Linux command-line tools and system operations  
